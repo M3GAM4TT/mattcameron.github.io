@@ -3,7 +3,7 @@
 ![Resume example](resume.gif)
 
 ## Purpose
-This should explain the practical steps of how to host a resume online using Markdown, GitHub Pages, and Jekyll. Additionally, there should be understandable links to the general principles of current Technical Writing according to Andrew Etter's book *Modern Technical Writing*.
+This should explain the practical steps of how to host a resume online using Markdown, GitHub Pages, and Jekyll. Additionally, there should be understandable links to the general principles of current Technical Writing according to Andrew Etter's book *Modern Technical Writing* (can be found in [More Resources](#more-resources)).
 
 ## Outline
 - [Prerequisites](#prerequisites)
@@ -27,9 +27,9 @@ You will need:
 
     1. Create a new *public* repository on GitHub named *username*.github.io (where *username* is your username). There are two ways that this can be done:
         -  Click the green 'New' button on the homepage   
-        ![New repo](new_repo.png)   
+        ![New repository info](new_repo.png)   
         -  Click the '+' button located at the top right and select 'New repository'.   
-        ![New repo 2](new_repo2.png)    
+        ![New repository info (2)](new_repo2.png)    
 
 > Git is being used here because it is a distributed version control system (DVCS) that is both powerful and easy to use. GitHub allows files to be hosted and modified all in one place. One very important feature is the ability to see edits to files and the differences from previous versions. This is core to version control systems and GitHub allows you to see individual commits for as much precision as possible. In Andrew Etter's words: "Version control systems like Git do an amazing job tracking changes over time." 
 
