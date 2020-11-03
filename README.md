@@ -12,12 +12,16 @@ You will need:
 
 1. Create a new repository on GitHub with name *username*.github.io (where *username* is your username). There are two ways that this can be done:
     -  Click the green 'New' button on the homepage   
-![New repo](new_repo.png)
-    -  Click the '+' button located at the top right and select 'New repository'. (relates to Etter's book via distributed version control, elaborate)
+    ![New repo](new_repo.png)   
+    -  Click the '+' button located at the top right and select 'New repository'.   
+    ![New repo 2](new_repo2.png)    
+    - (relates to Etter's book via distributed version control, elaborate)
 
 2. Name your resume file `index.md`. (relates to Etter's book via distributed version control, elaborate)
 
-3. Add your resume to the root of your GitHub repository. This can be done via 'Add file' on the repository webpage. (relates to Etter's book via distributed version control, elaborate)
+3. Add your resume to the root of your GitHub repository. This can be done via 'Add file' on the repository webpage:  
+    ![Add File](add_file.png)    
+ (relates to Etter's book via distributed version control, elaborate)
 
 ## Building your Pages site with Jekyll
 
