@@ -6,8 +6,10 @@ Winnipeg, MB - 204 330 5529 - matthewcameron96@gmail.com
 ## Professional Summary
 
 ```
-Enthusiastic Software Developer with competencies in C#, .NET, and JavaScript. Offers 1 year of software development experience.
-Demonstrated excellent skills using Microsoft Azure and related tools. Passionate about learning and developing my skillset.
+Enthusiastic Software Developer with competencies in C#, .NET, and JavaScript.
+Offers 1 year of software development experience.
+Demonstrated excellent skills using Microsoft Azure and related tools.
+Passionate about learning and developing my skillset.
 ```
 ## Skills
 

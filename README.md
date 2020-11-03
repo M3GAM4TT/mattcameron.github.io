@@ -3,6 +3,13 @@
 ## Purpose
 This should explain the practical steps of how to host and format a resume using Markdown, a Markdown editor, GitHub Pages, and Jekyll. Additionally, there should be understandable links to the general principles of current Technical Writing according to Andrew Etter's book *Modern Technical Writing*.
 
+## Outline
+- [Prerequisites](#prerequisites)
+- [Instructions](#instructions)
+- [More Resources](#more-resources)
+- [Authors and Acknowledgements](#authors-and-acknowledgements)
+- [FAQs](#faqs)
+
 ## Prerequisites
 You will need:
 - A resume formatted in Markdown
@@ -29,12 +36,13 @@ You will need:
     Markdown is being used here because it is a lightweight markup language. Also, it is the most used due to its readability, access, and simplicity. Furthermore, it makes the process of putting content on a webpage much easier. Languages like Markdown are often easily converted to HTML, and then processed in order to display content on a browser. Instead of dealing with creating and then converting a Word document, Markdown can be displayed without much hassle. 
 
 3. Building your Pages site
-    1. Click over to the 'Settings' tab on your repository. Then scroll down to 'GitHub Pages' and enable it to build from your 'main' branch.  
-    2. On the same page, right below the above step, there is a Theme Chooser. This will allow you to choose a Jekyll template. Click on 'Choose a theme', and select one of the given theme options.  
-    Note: You may want to add a custom theme, which can be done from the same place. However, this tutorial will not cover that.    
-    3. Open `https://username.github.io` in a browser (where `username` is your GitHub username). Alternatively, in [Step 1](#Step1) you can find the link to your site if your repository is not named this way.    
+    1. Click over to the **Settings** tab on your repository.
+    2. Scroll down to **GitHub Pages** and enable it to build from your *main* branch.  
+    3. On the same page, right below the above step, there is a Theme Chooser. This will allow you to choose a Jekyll template. Click on 'Choose a theme', and select one of the given theme options.  
+    Note: You may want to add a custom theme, which can be done from the same place. This tutorial will not cover that, but check out the tutorial in (More Resources)[#more-resources].    
+    4. Open `https://username.github.io` in a browser (where `username` is your GitHub username). Alternatively, in Step 1 of this section you can find the link to your site if your repository is not named this way.    
 
-    Etter book here.
+    Building and hosting a website (like this one) is a simple way to distribute all kinds of data. Andrew Etter says that "Hosting content on a website gives you the power to fix inaccuracies almost instantly". With GitHub Pages, making a change and rebuilding the site takes minutes or less. While paper resumes are still used, distributing one via a simple link is more accessible, uses less paper, and can be edited at any time (in case you accidentally make a typo right before sending it out). 
 
 ## More Resources
 
@@ -43,6 +51,8 @@ You will need:
 2. [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 3. [GitHub Pages Tutorial](https://pages.github.com/)
+
+4. [Jekyll Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
 
 ## Authors and Acknowledgements
 I would like to thank [Matt Graham](https://twitter.com/michigangraham), the author of the [Midnight Jekyll template](https://github.com/pages-themes/midnight) which is used to host the resume above.     
