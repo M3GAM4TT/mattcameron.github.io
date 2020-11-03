@@ -26,12 +26,14 @@ You will need:
     2. Add your resume to the root of your GitHub repository. This can be done via 'Add file' on the repository webpage:  
     ![Add File](add_file.png)    
 
-    Markdown is being used here because it is a lightweight markup language. Also, it is the most used of these due to its readability, access, and simplicity. Furthermore, it makes the process of putting content on a webpage much easier. Languages like Markdown are often easily converted to HTML, and then processed in order to display content on a browser. Instead of dealing with creating and then converting a Word document, Markdown can be displayed without much hassle. 
+    Markdown is being used here because it is a lightweight markup language. Also, it is the most used due to its readability, access, and simplicity. Furthermore, it makes the process of putting content on a webpage much easier. Languages like Markdown are often easily converted to HTML, and then processed in order to display content on a browser. Instead of dealing with creating and then converting a Word document, Markdown can be displayed without much hassle. 
 
 3. Building your Pages site
     1. Click over to the 'Settings' tab on your repository. Then scroll down to 'GitHub Pages' and enable it to build from your 'main' branch.  
     2. On the same page, right below the above step, there is a Theme Chooser. This will allow you to choose a Jekyll template. Click on 'Choose a theme', and select one of the given theme options.  
     Note: You may want to add a custom theme, which can be done from the same place. However, this tutorial will not cover that.    
+    3. Open `https://username.github.io` in a browser (where `username` is your GitHub username). Alternatively, in [Step 1](#Step1) you can find the link to your site if your repository is not named this way.    
+
     Etter book here.
 
 ## More Resources
