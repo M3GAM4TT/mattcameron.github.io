@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Hosting a Resume on GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/M3GAM4TT/mattcameron.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Purpose
+This should explain the practical steps of how to host and format a resume using Markdown, a Markdown editor, GitHub Pages, and Jekyll. Additionally, there should be understandable links to the general principles of current Technical Writing according to Andrew Etter's book *Modern Technical Writing*.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Prerequisites
+You will need:
+- A resume formatted in Markdown
+- A GitHub account
 
-### Markdown
+## Getting Started with GitHub
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Create a new repository on GitHub with name *username*.github.io, where *username* is your username. This can be done via the green 'New' button on the homepage, or via the '+' button next to your profile picture in the top right and selecting 'New repository'. (relates to Etter's book via distributed version control, elaborate)
 
-```markdown
-Syntax highlighted code block
+2. Name your resume file `index.md`. (relates to Etter's book via distributed version control, elaborate)
 
-# Header 1
-## Header 2
-### Header 3
+3. Add your resume to the root of your GitHub repository. This can be done via 'Add file' on the repository webpage. (relates to Etter's book via distributed version control, elaborate)
 
-- Bulleted
-- List
+## Building your Pages site with Jekyll
 
-1. Numbered
-2. List
+4. Click over to the 'Settings' tab on your repository, then scroll down to 'GitHub Pages' and enable it to build from your 'main' branch.
 
-**Bold** and _Italic_ and `Code` text
+5. On the same page, immediately below the above step, there is a Theme Chooser which allows you to 'Choose a theme' from given Jekyll templates. Select this, and choose one of the given theme options.  
+Note: You may want to add a custom theme, which can be done from the same place. However, this tutorial will not cover that.
 
-[Link](url) and ![Image](src)
-```
+## More Resources
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. [Markdown Tutorial](https://www.markdowntutorial.com/)
 
-### Jekyll Themes
+2. [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/M3GAM4TT/mattcameron.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3. [GitHub Pages Tutorial](https://pages.github.com/)
 
-### Support or Contact
+## Authors and Acknowledgements
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## FAQs
+1. "Why is Markdown better than a word processor?"
+- Markdown has fewer settings and formatting options; it is simplified and at the same time standardized. As a result, everyone is able to create a similar type of documentation with a relatively small learning curve.
+2. "Why is my resume not showing up?
+- Have you tried ...?
