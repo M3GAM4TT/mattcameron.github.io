@@ -30,16 +30,16 @@ You will need:
         ![New repo](new_repo.png)   
         -  Click the '+' button located at the top right and select 'New repository'.   
         ![New repo 2](new_repo2.png)    
-```
-Git is being used here because it is a distributed version control system (DVCS) that is both powerful and easy to use. GitHub allows files to be hosted and modified all in one place. One very important feature is the ability to see edits to files and the differences from previous versions. This is core to version control systems and GitHub allows you to see individual commits for as much precision as possible. In Andrew Etter's words: "Version control systems like Git do an amazing job tracking changes over time." 
-```
+
+> Git is being used here because it is a distributed version control system (DVCS) that is both powerful and easy to use. GitHub allows files to be hosted and modified all in one place. One very important feature is the ability to see edits to files and the differences from previous versions. This is core to version control systems and GitHub allows you to see individual commits for as much precision as possible. In Andrew Etter's words: "Version control systems like Git do an amazing job tracking changes over time." 
+
 2. Adding Resume to GitHub
     1. Name your resume file `index.md`. (It must be **exactly** this name) 
     2. Add your resume to the root of your GitHub repository. This can be done via 'Add file' on the repository webpage:  
     ![Add File](add_file.png)    
-```
-Markdown is being used here because it is a lightweight markup language. Also, it is the most used due to its readability, access, and simplicity. Furthermore, it makes the process of putting content on a webpage much easier. Languages like Markdown are often easily converted to HTML, and then processed in order to display content on a browser. Instead of dealing with creating and then converting a Word document, Markdown can be displayed without much hassle. 
-```
+
+> Markdown is being used here because it is a lightweight markup language. Also, it is the most used due to its readability, access, and simplicity. Furthermore, it makes the process of putting content on a webpage much easier. Languages like Markdown are often easily converted to HTML, and then processed in order to display content on a browser. Instead of dealing with creating and then converting a Word document, Markdown can be displayed without much hassle. 
+
 3. Building your Pages site
     1. Click over to the **Settings** tab on your repository.
     2. Scroll down to **GitHub Pages** and enable it to build from your *main* branch.  
@@ -47,9 +47,9 @@ Markdown is being used here because it is a lightweight markup language. Also, i
     4. Select one of the given theme options for your resume.  
     Note: You may want to add a custom theme, which can be done from the same place. This tutorial will not cover that, but check out the tutorial in [More Resources](#more-resources).    
     5. Open `https://username.github.io` in a browser (where `username` is your GitHub username). Alternatively, in Step 1 of this section you can find the link to your site if your repository is not named this way.    
-```
-Building and hosting a website (like this one) is a simple way to distribute all kinds of data. Andrew Etter says that "Hosting content on a website gives you the power to fix inaccuracies almost instantly". With GitHub Pages, making a change and rebuilding the site takes minutes or less. While paper resumes are still used, distributing one via a simple link is more accessible, uses less paper, and can be edited at any time (in case you accidentally make a typo right before sending it out). There are numerous options out there to host a site like this, and each of these requires very little from the user other than the specific pages to display. 
-```
+
+> Building and hosting a website (like this one) is a simple way to distribute all kinds of data. Andrew Etter says that "Hosting content on a website gives you the power to fix inaccuracies almost instantly". With GitHub Pages, making a change and rebuilding the site takes minutes or less. While paper resumes are still used, distributing one via a simple link is more accessible, uses less paper, and can be edited at any time (in case you accidentally make a typo right before sending it out). There are numerous options out there to host a site like this, and each of these requires very little from the user other than the specific pages to display. 
+
 ## More Resources
 
 1. [Markdown Tutorial](https://www.markdowntutorial.com/)
