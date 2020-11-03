@@ -41,7 +41,7 @@ You will need:
     1. Click over to the **Settings** tab on your repository.
     2. Scroll down to **GitHub Pages** and enable it to build from your *main* branch.  
     3. On the same page, right below the above step, there is a Theme Chooser. This will allow you to choose a Jekyll template. Click on 'Choose a theme', and select one of the given theme options.  
-    Note: You may want to add a custom theme, which can be done from the same place. This tutorial will not cover that, but check out the tutorial in (More Resources)[#more-resources].    
+    Note: You may want to add a custom theme, which can be done from the same place. This tutorial will not cover that, but check out the tutorial in [More Resources](#more-resources).    
     4. Open `https://username.github.io` in a browser (where `username` is your GitHub username). Alternatively, in Step 1 of this section you can find the link to your site if your repository is not named this way.    
 
     Building and hosting a website (like this one) is a simple way to distribute all kinds of data. Andrew Etter says that "Hosting content on a website gives you the power to fix inaccuracies almost instantly". With GitHub Pages, making a change and rebuilding the site takes minutes or less. While paper resumes are still used, distributing one via a simple link is more accessible, uses less paper, and can be edited at any time (in case you accidentally make a typo right before sending it out). 
@@ -58,12 +58,13 @@ You will need:
 
 ## Authors and Acknowledgements
 I would like to thank [Matt Graham](https://twitter.com/michigangraham), the author of the [Midnight Jekyll template](https://github.com/pages-themes/midnight) which is used to host the resume above.     
+
 Acknowledgement to the author of *Modern Technical Writing*, Andrew Etter. This book is referenced during discussions in this README.
 
 ## FAQs
 1. "Why is Markdown better than a word processor?"
 - Markdown has fewer settings and formatting options; it is simplified and at the same time standardized. As a result, everyone is able to create a similar type of documentation with a relatively small learning curve. Creating something in Markdown often will often take up much less space and can also be created quickly. 
 2. "Why is my resume not showing up?"
-- Make sure GitHub Pages is set up to build from your `main` branch, and that you have your resume in `index.md` located at the root of your repository. 
+- Make sure GitHub Pages is set up to build from your `main` branch, and that you have your resume in `index.md` located at the root of your repository. Another step you can take is to use your Markdown editor to ensure your resume shows up locally and that the one you have uploaded is the same file.
 3. ????
 4. ????
