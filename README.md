@@ -11,8 +11,8 @@ You will need:
 ## Getting Started with GitHub
 
 1. Create a new repository on GitHub with name *username*.github.io (where *username* is your username). There are two ways that this can be done:
-    -  Click the green 'New' button on the homepage     
-    ![New repo](new_repo.png)
+    -  Click the green 'New' button on the homepage   
+![New repo](new_repo.png)
     -  Click the '+' button located at the top right and select 'New repository'. (relates to Etter's book via distributed version control, elaborate)
 
 2. Name your resume file `index.md`. (relates to Etter's book via distributed version control, elaborate)
