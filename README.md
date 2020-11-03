@@ -3,7 +3,7 @@
 ![Resume example](resume.gif)
 
 ## Purpose
-This should explain the practical steps of how to host and format a resume using Markdown, a Markdown editor, GitHub Pages, and Jekyll. Additionally, there should be understandable links to the general principles of current Technical Writing according to Andrew Etter's book *Modern Technical Writing*.
+This should explain the practical steps of how to host a resume online using Markdown, GitHub Pages, and Jekyll. Additionally, there should be understandable links to the general principles of current Technical Writing according to Andrew Etter's book *Modern Technical Writing*.
 
 ## Outline
 - [Prerequisites](#prerequisites)
@@ -44,7 +44,7 @@ You will need:
     Note: You may want to add a custom theme, which can be done from the same place. This tutorial will not cover that, but check out the tutorial in [More Resources](#more-resources).    
     4. Open `https://username.github.io` in a browser (where `username` is your GitHub username). Alternatively, in Step 1 of this section you can find the link to your site if your repository is not named this way.    
 
-    Building and hosting a website (like this one) is a simple way to distribute all kinds of data. Andrew Etter says that "Hosting content on a website gives you the power to fix inaccuracies almost instantly". With GitHub Pages, making a change and rebuilding the site takes minutes or less. While paper resumes are still used, distributing one via a simple link is more accessible, uses less paper, and can be edited at any time (in case you accidentally make a typo right before sending it out). 
+    Building and hosting a website (like this one) is a simple way to distribute all kinds of data. Andrew Etter says that "Hosting content on a website gives you the power to fix inaccuracies almost instantly". With GitHub Pages, making a change and rebuilding the site takes minutes or less. While paper resumes are still used, distributing one via a simple link is more accessible, uses less paper, and can be edited at any time (in case you accidentally make a typo right before sending it out). There are numerous options out there to host a site like this, and each of these requires very little from the user other than the specific pages to display. 
 
 ## More Resources
 
@@ -63,8 +63,13 @@ Acknowledgement to the author of *Modern Technical Writing*, Andrew Etter. This 
 
 ## FAQs
 1. "Why is Markdown better than a word processor?"
-- Markdown has fewer settings and formatting options; it is simplified and at the same time standardized. As a result, everyone is able to create a similar type of documentation with a relatively small learning curve. Creating something in Markdown often will often take up much less space and can also be created quickly. 
+- Markdown has fewer settings and formatting options; it is simplified and at the same time standardized. As a result, anyone is able to create a similar type of documentation with a relatively small learning curve. Creating something in Markdown often will often take up much less space and can take less time than using a word processor. 
 2. "Why is my resume not showing up?"
-- Make sure GitHub Pages is set up to build from your `main` branch, and that you have your resume in `index.md` located at the root of your repository. Another step you can take is to use your Markdown editor to ensure your resume shows up locally and that the one you have uploaded is the same file.
-3. ????
-4. ????
+- Make sure GitHub Pages is set up to build from your `main` branch.
+- Also check to see that your resume is named `index.md` and located at the root of your repository.
+- Another step you can take is to use your Markdown editor to ensure your resume shows up locally and that the one you have uploaded is the same file.
+3. "Why should I use a static website over a traditional one?" 
+- Static websites are typically a lot simpler than one created using some web development framework, and as a result can be created much more quickly for someone unfamiliar with those. 
+- With a traditional website, you are responsible for everything, from the backend server, database, to the frontend HTML. Using something like GitHub Pages lets someone else do the majority of the work for you while providing a reliable result. 
+4. "Can I use the Git command line to do a lot of these steps?"
+- Yes! This guide is designed to be short and to the point, and as a result does not include multiple ways to clone a repository, manage commits, or add files. However, there are plenty of resources out there that can show how that is done! Check out the GitHub Pages Tutorial in [More Resources](#more-resources) for an example of that. 
