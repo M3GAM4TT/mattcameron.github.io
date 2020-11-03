@@ -1,52 +1,84 @@
-# Hosting a Resume on GitHub Pages
+# MATTHEW CAMERON
 
-## Purpose
-This should explain the practical steps of how to host and format a resume using Markdown, a Markdown editor, GitHub Pages, and Jekyll. Additionally, there should be understandable links to the general principles of current Technical Writing according to Andrew Etter's book *Modern Technical Writing*.
+```
+Winnipeg, MB - 204 330 5529 - matthewcameron96@gmail.com
+```
+## Professional Summary
 
-## Prerequisites
-You will need:
-- A resume formatted in Markdown
-- A GitHub account
+```
+Enthusiastic Software Developer with competencies in C#, .NET, and JavaScript. Offers 1 year of software development experience.
+Demonstrated excellent skills using Microsoft Azure and related tools. Passionate about learning and developing my skillset.
+```
+## Skills
 
-## Getting Started with GitHub
+- C# proficiency
+- .NET development
+- JavaScript programming (Vue.js, Node.js, jQuery)
+- CSS experience
+- Process improvement
+- API design knowledge
+- Application development
 
-1. Create a new repository on GitHub with name *username*.github.io, where *username* is your username. This can be done via the green 'New' button on the homepage, or via the '+' button next to your profile picture in the top right and selecting 'New repository'. (relates to Etter's book via distributed version control, elaborate)
+## Work History
 
-2. Name your resume file `index.md`. 
+```
+Full Stack Developer (Co-op Work Term III), May 2020 to August 2020
+Upfeat Media Inc. – Winnipeg, MB
+```
+- Worked on Chrome extension using JavaScript to display user transactions and rewards in an easily accessible manner.
+- Contributed to the development of website themes for new customers to display coupon categories and merchants as per specifications.
+- Reviewed code, debugged problems and corrected issues.
+- Delivered tool for sales team to improve organization and management of contracts, placements, and sites.
+- Updated and improved back-end technologies using PHP frameworks such as Laravel and Lighthouse.
 
-3. Add your resume to the root of your GitHub repository. This can be done via 'Add file' on the webpage of the repository or by cloning the repository and adding the file via a commit. 
-    - If you want to use the second option, you will have to do a few more things.
-    - Go to the folder where you want to store your project and clone the repository by running a `git clone` command.  
-    For example, 
-        <pre> git clone https://github.com/<i>username</i>/<i>username</i>.github.io         </pre>
-        where *username* is your username.
-    - Add your `index.md` file to the project folder.
-    - Enter the folder from your terminal, add the file via commit, and push the changes.
-    For example,
-            <pre>cd <i>username</i>.github.io
-        git add -all
-        git commit -m "Initial commit"
-        git push -u origin main </pre>
+```
+Software Developer, Enterprise Services (Co-op Work Term II), September 2019 to December 2019
+iQmetrix – Winnipeg, MB
+```
+- Added new functionality for the backend system of a large enterprise client to report status of in-progress transactions in a readable manner.
+- Improved error handling and messaging during transactions.
+- Created function to monitor transactions in progress in order to improve resiliency during entire tendering process.
+- Participated in sprint planning meetings in order to create user stories and tasks for developers to work on.
+- Demonstrated functionality of a new feature during retrospective meeting for entire team of twenty.
 
-## Building your Pages site and Jekyll
+```
+Junior Developer (Co-op Work Term I), January 2019 to April 2019 (Full-time), May 2019 to August 2019 (Part-time)
+Value Partners Investments – Winnipeg, MB
+```
+- Designed and created functions to automatically pull marketing and stock data into databases for analysis and calculation.
+- Built functions to perform file manipulation in Blob storage due to limitations within Azure which were integral for daily file processing.
+- Identified bugs in existing functions and provided fixes to minimize downtime.
+- Developed a report generator which simulates client investments and creates reports for existing accounts.
 
-4. Click over to the 'Settings' tab on your repository, then scroll down to 'GitHub Pages' and enable it to build from your 'main' branch.
+## Education
 
-5. On the same page, immediately below the above step, there is a Theme Chooser which allows you to 'Choose a theme' from given Jekyll templates. Select this, and choose one of the given theme options.  
-Note: You may want to add a custom theme, which can be done from the same place. However, this tutorial will not cover that.
+```
+Bachelor of Science : Computer Science, Expected in February 2021
+University of Manitoba - Winnipeg, MB
+```
+- Received Co-op designation
+- Minored in Economics and Mathematics
+- Received Guenter Krause First Year Award (September 2018)
 
-## More Resources
+## Projects
 
-1. [Markdown Tutorial](https://www.markdowntutorial.com/)
+```
+Academic Project (Software Engineering 2), January 2020 to April 2020
+cReg is a course registration assistant which will provide informed suggestions to students on what courses to register in as well as give them
+the ability to submit a shortlist of courses and be automatically registered to avoid waitlists.
+```
+Responsibilities taken on include set up and development of backend server and database as well as providing support to team members who
+are less familiar with the technology being used.
+```
+Academic Project (Software Engineering 1), May 2019 to August 2019
+Debt Note is an expense tracking and budgeting Android app which allows users to manage their own personal transactions or shared
+transactions with other users.
+```
+Responsibilities taken on included planning the purpose and design of the app with other team members, creating tickets in order to organize
+features, user stories and tasks, and management of the database and its interactions with other parts of the app.
+```
+Personal Project (D&D Character Generator), December 2018
+Created a program which generated random characters for Dungeons and Dragons and was able to accept various input to affect the output.
+```
 
-2. [Modern Technical Writing by Andrew Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
-3. [GitHub Pages Tutorial](https://pages.github.com/)
-
-## Authors and Acknowledgements
-
-## FAQs
-1. "Why is Markdown better than a word processor?"
-- Markdown has fewer settings and formatting options; it is simplified and at the same time standardized. As a result, everyone is able to create a similar type of documentation with a relatively small learning curve.
-2. "Why is my resume not showing up?
-- Have you tried ...?
